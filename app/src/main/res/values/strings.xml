@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">TCP Merge</string>
+
+    <string name="select_device">Select Device</string>
+
+    <string name="warning_for_authority">Warning for Authority</string>
+    <string name="warning_message">Please firstly setup your device Ethernet IP as Static as 192.168.100.1 then start the Server side. Now it is ready to use for users. Enjoy it!🙂</string>
+
+    <string name="system_documentation">Please avoid IP 192.168.100.1 for user devices!\nYou can insert IP 192.168.100.2 up to 192.168.100.254 for user devices. </string>
+
+
+    <string-array name="device_ip">
+        <item>Select IP</item>
+        <item>192.168.100.2</item>
+        <item>192.168.100.3</item>
+        <item>192.168.100.4</item>
+        <item>192.168.100.5</item>
+        <item>192.168.100.6</item>
+        <item>192.168.100.7</item>
+        <item>192.168.100.8</item>
+        <item>192.168.100.9</item>
+        <item>192.168.100.10</item>
+        <item>192.168.100.11</item>
+        <item>192.168.100.12</item>
+        <item>192.168.100.13</item>
+        <item>192.168.100.14</item>
+        <item>192.168.100.15</item>
+        <item>192.168.100.16</item>
+        <item>192.168.100.17</item>
+        <item>192.168.100.18</item>
+        <item>192.168.100.19</item>
+        <item>192.168.100.20</item>
+    </string-array>
+
+
+    <string name="json">
+        {
+            "student": [
+            {
+                "id": 1,
+                    "name": "Shahin",
+                    "year": "3rd",
+                    "department": "android",
+                    "birthday": "3/5/1996"
+            },
+            {
+                "id": 2,
+                    "name": "Ziyad",
+                    "year": "4th",
+                    "department": "android",
+                    "birthday": "4/7/1996"
+            },
+            {
+                "id": 3,
+                "name": "Satta",
+                "Year": "2nd",
+                "department": "android",
+                "birthday": "12/07/1996"
+            }
+            {
+                "id": 4,
+                "name": "Apu",
+                "Year": "2nd",
+                "department": "android",
+                "birthday": "10/07/1996"
+            }
+            ]
+        }
+    </string>
+
+
+</resources>
